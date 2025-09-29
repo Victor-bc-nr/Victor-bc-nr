@@ -5,3 +5,6 @@ My name is Victor Moya, i'm an undergraduate at UTRGV studying computer science.
 
 ## Contact info
 LinkedIn profile: www.linkedin.com/in/victor-moya-77b01a384
+
+## Progaming Languages
+I am most confortable with Java, C++, and Python. I have a few years of experience with these languages, particularly Java and C++.
